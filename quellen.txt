@@ -1,0 +1,19 @@
+Sounds
+shot.mp3: https://www.videvo.net/de/soundeffekt/pistolenschuss-einzelschuss-in-pe1097906/246309/
+death.mp3: https://orangefreesounds.com/minecraft-death-sound/
+Restlichen Sounds Quellen = Titel
+
+Schriftart: https://befonts.com/space-game-font.html
+
+Bilder:
+Wallpaper: Dall-E 2
+Gegner: https://daveydreamnation.com/blogging/space-invaders-1980/
+Spieler: https://stock.adobe.com/de/search?k=fpp&asset_id=530741151
+Boss: https://www.pngfind.com/download/JoTwxo_invader-boss-2-pixel-exclamation-point-hd-png/
+Restlichen Bilder selbst gemalt
+
+Codehilfen: 
+Java-Kurs
+w3.schools
+chatGPT
+StackOverflow

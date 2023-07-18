@@ -1,0 +1,25 @@
+Sprint 4:
+ToDo`s:
+
+- Bugs Fixen
+  -> 
+
+Erledigt:
+- Textfelder (Für Spielername) | Eh nicht   (Niclas)
+- Spiel status besser Wiedergeben (Niclas)
+- Ufos nach Unten bewegen (Niclas)
+- Bilder (Ufo, Player, Background) | Wichtig (Leon)
+- Schriftart | Wäre Cool so aber muss halt nicht | löse ich mit bildern (leon)
+- Wenn Ufos untenankommen, Spiel vorbei (Leon)
+- Neue Frontpage (Schriftart, Steuerung) (Leon)
+- mit der zeit schwerer machen (Ufos schießen schneller, Mehr Ufos) (Leon)
+- Boosts | Optional (Niclas)
+
+
+- Bugs Gefixt
+  -> Nach neustarts Ufos reseten 
+  -> Highscore kann nur nach erster runde gespeichert werden
+  -> Bullet kann mehere Ufos zerstören 
+  -> Leben kleiner als Null
+  -> Neustart nicht austomatisch auswählen
+  -> Ganz viele out of bounds fehler durch ArrayLists

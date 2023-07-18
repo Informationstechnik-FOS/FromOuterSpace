@@ -1,0 +1,134 @@
+﻿[Files]
+File0=C:\Users\Leon\OneDrive - Max-Eyth-Schule\Niclas Abi macht Programm\SpaceInvaders\Code\BilderManager.java
+File1=C:\Users\Leon\OneDrive - Max-Eyth-Schule\Niclas Abi macht Programm\SpaceInvaders\Code\Boss.java
+File2=C:\Users\Leon\OneDrive - Max-Eyth-Schule\Niclas Abi macht Programm\SpaceInvaders\Code\Bullet.java
+File3=C:\Users\Leon\OneDrive - Max-Eyth-Schule\Niclas Abi macht Programm\SpaceInvaders\Code\HighscoreManager.java
+File4=C:\Users\Leon\OneDrive - Max-Eyth-Schule\Niclas Abi macht Programm\SpaceInvaders\Code\Main.java
+File5=C:\Users\Leon\OneDrive - Max-Eyth-Schule\Niclas Abi macht Programm\SpaceInvaders\Code\Player.java
+File6=C:\Users\Leon\OneDrive - Max-Eyth-Schule\Niclas Abi macht Programm\SpaceInvaders\Code\PowerUp.java
+File7=C:\Users\Leon\OneDrive - Max-Eyth-Schule\Niclas Abi macht Programm\SpaceInvaders\Code\ScoreData.java
+File8=C:\Users\Leon\OneDrive - Max-Eyth-Schule\Niclas Abi macht Programm\SpaceInvaders\Code\SoundPlayer.java
+File9=C:\Users\Leon\OneDrive - Max-Eyth-Schule\Niclas Abi macht Programm\SpaceInvaders\Code\Ufo.java
+
+[Box:  - Code.BilderManager]
+X=759
+Y=545
+MinVis=0
+ShowParameter=4
+SortOrder=0
+ShowIcons=1
+FontSize=6
+FontName=Segoe UI
+
+[Box:  - Code.Boss]
+X=20
+Y=545
+MinVis=0
+ShowParameter=4
+SortOrder=0
+ShowIcons=1
+FontSize=6
+FontName=Segoe UI
+
+[Box:  - Code.Bullet]
+X=1375
+Y=40
+MinVis=0
+ShowParameter=4
+SortOrder=0
+ShowIcons=1
+FontSize=6
+FontName=Segoe UI
+
+[Box:  - Code.HighscoreManager]
+X=270
+Y=545
+MinVis=0
+ShowParameter=4
+SortOrder=0
+ShowIcons=1
+FontSize=6
+FontName=Segoe UI
+
+[Box:  - Code.Main]
+X=566
+Y=40
+MinVis=0
+ShowParameter=4
+SortOrder=0
+ShowIcons=1
+FontSize=6
+FontName=Segoe UI
+
+[Box:  - Code.Player]
+X=932
+Y=545
+MinVis=0
+ShowParameter=4
+SortOrder=0
+ShowIcons=1
+FontSize=6
+FontName=Segoe UI
+
+[Box:  - Code.PowerUp]
+X=894
+Y=40
+MinVis=0
+ShowParameter=4
+SortOrder=0
+ShowIcons=1
+FontSize=6
+FontName=Segoe UI
+
+[Box:  - Code.ScoreData]
+X=1101
+Y=40
+MinVis=0
+ShowParameter=4
+SortOrder=0
+ShowIcons=1
+FontSize=6
+FontName=Segoe UI
+
+[Box:  - Code.SoundPlayer]
+X=523
+Y=545
+MinVis=0
+ShowParameter=4
+SortOrder=0
+ShowIcons=1
+FontSize=6
+FontName=Segoe UI
+
+[Box:  - Code.Ufo]
+X=1673
+Y=40
+MinVis=0
+ShowParameter=4
+SortOrder=0
+ShowIcons=1
+FontSize=6
+FontName=Segoe UI
+
+[Diagram]
+comments=0
+OffsetX=0
+OffsetY=0
+Visibility=0
+ShowParameter=4
+SortOrder=0
+ShowIcons=1
+ShowConnections=0
+Fontname=Segoe UI
+Fontsize=6
+ShowObjectDiagram=0
+
+[Connections]
+V0=Code.Main#Code.HighscoreManager#AssociationDirected####0#0#0###0#0
+V1=Code.Main#Code.SoundPlayer#AssociationDirected####0#0#0###0#0
+V2=Code.Main#Code.BilderManager#AssociationDirected####0#0#0###0#0
+V3=Code.Main#Code.Player#AssociationDirected####0#0#0###0#0
+
+[Interactive]
+I0=
+

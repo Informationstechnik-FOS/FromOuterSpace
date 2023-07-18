@@ -1,0 +1,9 @@
+JSG: true
+FontName: Segoe UI
+FontSize: 12
+FontColor: -16777208
+- Kind: Algorithm
+  SwitchWithCaseLine: false
+  RectPos|0 0 107 52 100 150
+  Algorithm test|0 0 141 27 5 2
+    |0 27 107 52 5 29

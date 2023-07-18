@@ -1,0 +1,14 @@
+﻿[Participants]
+# Object | x-position
+
+[Messages]
+# Object1 ->  Object2 | synchron message
+# Object1 --> Object2 | return message
+# Object1 ->> Object2 | asynchron message
+# Object1 ->o Object2 | new message
+# Object1 ->x Object2 | close message
+
+[Diagram]
+Top=30
+FontName=Segoe UI
+FontSize=12
